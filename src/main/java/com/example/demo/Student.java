@@ -105,7 +105,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return '\n'+ "Student{" +
+        return '\n'+ "com.example.demo.Student{" +
                 "id=" + id +
                 ", first_name='" + first_name + '\'' +
                 ", email='" + email + '\'' +
